@@ -47,12 +47,12 @@ document.getElementById('national-emergency-call-btn').addEventListener('click',
     div.innerHTML = `
     
                 <div id="card" class="flex justify-between items-center  bg-gray-100 p-4 mt-3 rounded-xl">
-                    <div class="w-[70%]">
+                    <div class="w-[65%]">
                         <h1 class="font-semibold text-[18px]">${data.name}</h1>
                         <p class="text-[18px] text-gray-500">${data.number}</p>
                     </div>
 
-                    <div class="w-[30%]">
+                    <div class="w-[35%]">
                     <p class="text-[16px] text-gray-500">${data.date}</p>
                     </div>
                 </div>
@@ -108,12 +108,12 @@ document.getElementById('police-helpline-btn').addEventListener('click', functio
     div.innerHTML = `
     
                 <div id="card" class="flex justify-between items-center  bg-gray-100 p-4 mt-3 rounded-xl">
-                    <div class="w-[70%]">
+                    <div class="w-[65%]">
                         <h1 class="font-semibold text-[18px]">${data.name}</h1>
                         <p class="text-[18px] text-gray-500">${data.number}</p>
                     </div>
 
-                    <div class="w-[30%]">
+                    <div class="w-[35%]">
                     <p class="text-[16px] text-gray-500">${data.date}</p>
                     </div>
                 </div>
@@ -171,12 +171,12 @@ document.getElementById('fire-service-btn').addEventListener('click', function()
     div.innerHTML = `
     
                 <div id="card" class="flex justify-between items-center  bg-gray-100 p-4 mt-3 rounded-xl">
-                    <div class="w-[70%]">
+                    <div class="w-[65%]">
                         <h1 class="font-semibold text-[18px]">${data.name}</h1>
                         <p class="text-[18px] text-gray-500">${data.number}</p>
                     </div>
 
-                    <div class="w-[30%]">
+                    <div class="w-[35%]">
                     <p class="text-[16px] text-gray-500">${data.date}</p>
                     </div>
                 </div>
@@ -235,12 +235,12 @@ document.getElementById('ambulance-service-btn').addEventListener('click', funct
     div.innerHTML = `
     
                 <div id="card" class="flex justify-between items-center  bg-gray-100 p-4 mt-3 rounded-xl">
-                    <div class="w-[70%]">
+                    <div class="w-[65%]">
                         <h1 class="font-semibold text-[18px]">${data.name}</h1>
                         <p class="text-[18px] text-gray-500">${data.number}</p>
                     </div>
 
-                    <div class="w-[30%]">
+                    <div class="w-[35%]">
                     <p class="text-[16px] text-gray-500">${data.date}</p>
                     </div>
                 </div>
@@ -298,12 +298,12 @@ document.getElementById('woman-child-btn').addEventListener('click', function(){
     div.innerHTML = `
     
                 <div id="card" class="flex justify-between items-center  bg-gray-100 p-4 mt-3 rounded-xl">
-                    <div class="w-[70%]">
+                    <div class="w-[65%]">
                         <h1 class="font-semibold text-[18px]">${data.name}</h1>
                         <p class="text-[18px] text-gray-500">${data.number}</p>
                     </div>
 
-                    <div class="w-[30%]">
+                    <div class="w-[35%]">
                     <p class="text-[16px] text-gray-500">${data.date}</p>
                     </div>
                 </div>
